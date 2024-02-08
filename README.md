@@ -10,7 +10,7 @@ I have studies in UX/UI design and now im learning to develop ios mobile app.
 
 * 🌍  I'm based in Argentina, Cordoba
 * ✉️  You can contact me at [gastonfoncea.09@gmail.com](mailto:gastonfoncea.09@gmail.com)
-* 🧠  I'm learning firebase sdk ios
+* 🧠  I'm learning IOS development
 * ⚡  I love big challenges
 
 ### Skills
