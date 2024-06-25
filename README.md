@@ -3,14 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 iOS Developer 
 ----------------
-
-I have studies in UX/UI design and now im learning to develop ios mobile app.
+I love to develop iOS mobile App
 
 * 🖥️  See my portfolio at [GITHUB PORTFOLIO](http://github.com/Gastonfoncea/Portfolio-GitHub)
 
 * 🌍  I'm based in Argentina, Cordoba
 * ✉️  You can contact me at [gastonfoncea.09@gmail.com](mailto:gastonfoncea.09@gmail.com)
-* 🧠  I'm learning IOS development
+* 🧠  I'm  IOS developer
 * ⚡  I love big challenges
 
 ### Skills
