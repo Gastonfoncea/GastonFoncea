@@ -1,23 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaston Foncea
 =====================================================================================================================================
 
-iOS Developer 
+Builder From Córdoba, Argentina.
 ----------------
-I love to develop iOS mobile App
+Currently building wips.sh
 
-* 🖥️  See my portfolio at [GITHUB PORTFOLIO](http://github.com/Gastonfoncea/Portfolio-GitHub)
+Founder of  Un sabado un producto: https://www.notion.so/Un-Sabado-un-producto-1dd62945f99780f2a28bec23d7a79585
 
-* 🌍  I'm based in Argentina, Cordoba
 * ✉️  You can contact me at [gastonfoncea.09@gmail.com](mailto:gastonfoncea.09@gmail.com)
-* 🧠  I'm  IOS developer
-* ⚡  I love big challenges
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
 
 ### Socials  
