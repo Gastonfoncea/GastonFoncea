@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Builder From Córdoba, Argentina.
 ----------------
-Currently building wips.sh
-
-Founder of  Un sabado un producto: https://www.notion.so/Un-Sabado-un-producto-1dd62945f99780f2a28bec23d7a79585
+* 🧪Currently building [wips.sh](https://www.wips.sh/)
 
 * ✉️  You can contact me at [gastonfoncea.09@gmail.com](mailto:gastonfoncea.09@gmail.com)
 
