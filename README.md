@@ -17,7 +17,7 @@ _Hackathon projects. Shipped and shelved — the code's still up._
 
 ## Previously
 
-**wips.sh** — Product attempt. Built, launched, killed when no market fit emerged.
+**[wips.sh](https://www.wips.sh/)** — Product attempt. Built, launched, killed when no market fit emerged.
 
 ## Contact
 
