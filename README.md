@@ -9,9 +9,9 @@ Product builder. Córdoba, Argentina.
 
 _Hackathon projects. Shipped and shelved — the code's still up._
 
-**[consentinel](https://github.com/Gastonfoncea/consentinel)** — Permission kernel for autonomous agents. Replaces static scopes with a behavior + risk model that decides whether an action should pass, audit, step-up, or be denied. MCP server, behavior graph, vector memory of prior actions. Built at Platanus Hack. _Next.js · Solidity · MCP_
+**[consentinel](https://github.com/Gastonfoncea/consentinel)** ([live](https://consentinel.vercel.app/)) — Permission kernel for autonomous agents. Replaces static scopes with a behavior + risk model that decides whether an action should pass, audit, step-up, or be denied. MCP server, behavior graph, vector memory of prior actions. Built at Platanus Hack. _Next.js · Solidity · MCP_
 
-**[ProofLoop](https://github.com/Gastonfoncea/ProofLoop)** — Autonomous auditor for AI agents. Hits your endpoint with the same prompts across models and reps, returns pass@k with confidence intervals and clustered failure modes. Built for the Vercel Workflow Hackathon. _Next.js · TypeScript_
+**[ProofLoop](https://github.com/Gastonfoncea/ProofLoop)** ([live](https://proof-loop.vercel.app/)) — Autonomous auditor for AI agents. Hits your endpoint with the same prompts across models and reps, returns pass@k with confidence intervals and clustered failure modes. Built for the Vercel Workflow Hackathon. _Next.js · TypeScript_
 
 **[Donatello](https://github.com/Gastonfoncea/Donatello)** — Taste critic agent for landing pages. Point it at a URL, get back why it looks like AI slop and what to fix. Driven by an editable taste rubric. _Python · Playwright · Claude API_
 
